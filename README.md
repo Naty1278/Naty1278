@@ -1,4 +1,4 @@
-IT Enthusiast an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+IT Professional an <a href="www.linkedin.com/in/natalia-mendez-8abb7363">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,6 +16,4 @@ IT Enthusiast an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: www.linkedin.com/in/natalia-mendez-8abb7363
