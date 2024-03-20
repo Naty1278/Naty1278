@@ -1,4 +1,4 @@
-IT Professional an <a href="www.linkedin.com/in/natalia-mendez-8abb7363">
+IT Professional <a href="www.linkedin.com/in/natalia-mendez-8abb7363">
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
