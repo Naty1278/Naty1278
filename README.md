@@ -12,6 +12,7 @@ IT Professional <a href="www.linkedin.com/in/natalia-mendez-8abb7363">
 
 <h2>🤳Connect with me:</h2>
 
+
 [<img align="left" alt="Natalia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
